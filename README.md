@@ -6,6 +6,12 @@ We need a way to represent text data for machine learning algorithm and the bag-
 
 # Important term/technique used in this project
 
+# Bag of word approach 
+
+![BOG](https://github.com/Er-Yash/SMS-Spam-Detection/assets/68111412/c248d8a9-4484-4b0a-af6e-ec46b4a2e5e4)
+
+
+
 # '.loc':
 method in pandas is a label-based indexer that is used to access a group of rows and columns by labels or a boolean array. 
 
@@ -56,10 +62,3 @@ For such cases, precision and recall come in very handy. These two metrics can b
 
 We will be using all 4 metrics to make sure our model does well. For all 4 metrics whose values can range from 0 to 1, having a score as close to 1 as possible is a good indicator of how well our model is doing.
 
-
-
-
-
-
-
-![download](https://github.com/Er-Yash/SMS-Spam-Detection/assets/68111412/2bad511e-a751-4d76-8de4-33abb6beeb5e)
